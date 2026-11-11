@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter analyze lib/)",
+      "Read(//Users/sjaaj/Flutter/mijn-kabel-berekeningen-4/assets/icon/**)",
+      "Bash(dart run flutter_launcher_icons)",
+      "Bash(ls /Users/sjaaj/Flutter/mijn-svi-warmte-berekening/flutter_app/macos/Runner/*.entitlements)",
+      "Bash(python3 -m streamlit --version)",
+      "Bash(pip show streamlit)",
+      "Bash(python3 -c \":*)",
+      "Bash(pip3 install xlrd --quiet)"
+    ],
+    "additionalDirectories": [
+      "/Users/sjaaj/Flutter/mijn-kabel-berekeningen-4/assets/icon"
+    ]
+  }
+}
